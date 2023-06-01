@@ -1,6 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on improve my skills.<br>
-🌱 I’m currently learning backend developing on Node.Js<br>
+🌱 I’m currently learning MongoDB and mongoose<br>
 💬 Ask me about anything!<br>
 ⚡ Fun fact: More people have mobile phones than toilets.
 
