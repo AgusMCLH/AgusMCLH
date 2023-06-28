@@ -1,6 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on improve my skills.<br>
-🌱 I’m currently learning MongoDB and mongoose<br>
+🔭 I’m currently working on my skills.<br>
+🌱 I’m currently learning Nodejs<br>
 💬 Ask me about anything!<br>
 ⚡ Fun fact: More people have mobile phones than toilets.
 
@@ -23,4 +23,4 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=AgusMCLH&icon=2&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
