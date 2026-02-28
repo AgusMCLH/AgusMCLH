@@ -1,8 +1,8 @@
 # 💫 About Me:
-🔭 I’m currently working on my skills.<br>
-🌱 I’m currently learning Nodejs<br>
-💬 Ask me about anything!<br>
-⚡ Fun fact: More people have mobile phones than toilets.
+💻 Building things with code and always improving my craft.
+🧠 Working mostly with Node.js and backend logic.
+🔎 Interested in data processing, integrations and automation.
+☕ Debugging by day, learning something new every week.
 
 
 ## 🌐 Socials:
