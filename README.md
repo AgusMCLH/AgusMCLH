@@ -1,7 +1,10 @@
 # 💫 About Me:
 💻 Building things with code and always improving my craft.
+
 🧠 Working mostly with Node.js and backend logic.
+
 🔎 Interested in data processing, integrations and automation.
+
 ☕ Debugging by day, learning something new every week.
 
 
